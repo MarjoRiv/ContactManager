@@ -1,0 +1,14 @@
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\marjo\source\repos\ContactManager\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\marjo\source\repos\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\marjo\source\repos\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\marjo\source\repos\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Entities.dll
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Entities.pdb
+C:\Users\marjo\source\repos\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CopyComplete
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Sérialisation.dll
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Sérialisation.pdb
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Cryptographie.dll
+C:\Users\marjo\source\repos\ContactManager\ContactManager\bin\Debug\Cryptographie.pdb

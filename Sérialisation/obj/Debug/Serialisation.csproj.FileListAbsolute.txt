@@ -1,0 +1,11 @@
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Sérialisation.dll
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Sérialisation.pdb
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Entities.dll
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Entities.pdb
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\obj\Debug\Serialisation.csprojAssemblyReference.cache
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\obj\Debug\Serialisation.csproj.CopyComplete
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\obj\Debug\Sérialisation.dll
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\obj\Debug\Sérialisation.pdb
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Cryptographie.dll
+C:\Users\marjo\source\repos\ContactManager\Sérialisation\bin\Debug\Cryptographie.pdb

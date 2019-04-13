@@ -1,0 +1,9 @@
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\bin\Debug\Cryptographie.dll
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\bin\Debug\Cryptographie.pdb
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\bin\Debug\Entities.dll
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\bin\Debug\Entities.pdb
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\obj\Debug\Cryptographie.csprojAssemblyReference.cache
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\obj\Debug\Cryptographie.csproj.CoreCompileInputs.cache
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\obj\Debug\Cryptographie.csproj.CopyComplete
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\obj\Debug\Cryptographie.dll
+C:\Users\marjo\source\repos\ContactManager\Cryptographie\obj\Debug\Cryptographie.pdb
